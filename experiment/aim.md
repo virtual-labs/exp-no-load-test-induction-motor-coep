@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Aim : To Study No Load Test on Three Phase Induction Motor

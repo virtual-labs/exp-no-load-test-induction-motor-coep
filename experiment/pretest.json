@@ -2,38 +2,65 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In a 3-phase slip-ring induction motor, 3-phase balanced supply is given to the rotor and stator winding is short -circuited. The rotor would",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "run against the direction of rotating field",
+        "b": "not run",
+        "c": "run in the direction of rotating field",
+        "d": "run at half the synchronous speed"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A 3-phase slip-ring induction motor (SRIM) has 4-pole stator and 2-pole rotor. With its stator energised from 50 Hz source, the rotor would run at a no-load speed",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "somewhat less than 2000 rpm",
+        "b": "somewhat less than 1500 rpm",
+        "c": "of zero rpm",
+        "d": "somewhat less than 3000 rpm"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 3-phase squirrel-cage induction motor (SCIM) has its stator rewound for 6 poles without any alteration in the rotor. The motor would run at a speed",
+      "answers": {
+        "a": "< 1500 rpm",
+        "b": "< 1000 rpm",
+        "c": "zero rpm",
+        "d": "< 3000 rpm"
+	},
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " If the rotor of a 3-phase IM is assumed purely resistive, then electromagnetic torque in the motor is", 
+      "answers": {
+        "a": "minimum with load angle 0&deg;",
+        "b": "minimum with load angle 90&deg;",
+        "c": "optimum with load angle 0&deg;",
+        "d": "optimum with load angle 90&deg;"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " If the rotor pf of a 3-phase IM is 0.866, then spatial displacement between the stator magnetic field and rotor magnetic field will be", 
+      "answers": {
+        "a": "30&deg;",
+        "b": "90&deg;",
+        "c": "120&deg;",
+        "d": "150&deg;"
+      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
-  ]
+	]
 }
+    
