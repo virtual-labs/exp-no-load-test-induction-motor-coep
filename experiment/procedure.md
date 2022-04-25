@@ -5,11 +5,11 @@
 4. Gradually increases the voltage to its rated value.
 5. Now increase the voltage by clicking the arrows on three phase variac
 
-<center><img src="Images/img2.jpg" title="" /></center>
+<center><img src="images/img2.jpg" title="" /></center>
 
 6. As we go on increasing the supply voltage we can observe the change in speed of motor in digital tachometer.
 
-<center><img src="Images/img3.jpg" title="" /></center>
+<center><img src="images/img3.jpg" title="" /></center>
 
 7. Observe the readings of voltmeter, ammeter, wattmeters and tachometer at various stator input voltages.
 8. Store the data by clicking "Start Storing Data" at various i/p voltages
@@ -18,7 +18,7 @@
 <center><img src="Images/img4.jpg" title="" /></center>
 11. Now select one of the graph from available graphs and use "Generate graph" to plot the graph .For Ex.
 
- <center><img src="Images/img5.jpg" title="" /></center>
+ <center><img src="images/img5.jpg" title="" /></center>
 
 12. While switching off, gradually decrease the voltage applied to motor and make it zero.
 13. Open the TPST switch.

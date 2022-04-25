@@ -30,7 +30,7 @@ Following equations could be used
 * Input power = 3V1*I1*pf
 * Output power = (1-S) &omega;s
 
-<center><img src="Images/img1.jpg" title="" /></center>
+<center><img src="images/img1.jpg" title="" /></center>
 Per phase equivalent circuit of a poly phase induction motor
 
 Start the motor by applying the normal frequency reduced voltage to the stator and gradually increases the voltage to its rated value under no load condition. In case of slip-ring motor short circuit the slip rings before starting. Note down the readings of voltmeter, ammeter, wattmeters and tachometer at different voltages.
