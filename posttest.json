@@ -1,0 +1,66 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The absolute speed of the magnetic field in space of a 3-phase rotor-fed IM is",
+      "answers": {
+        "a": "synchronous speed, Ns",
+        "b": "rotor speed, Nr",
+        "c": "(Ns - Nr)",
+        "d": "Ns + Nr"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A voltmeter gives 120 oscillations per minute when connected to the rotor of an IM. The stator frequency is 50 Hz. The slip of the motor is (a) (b) (c) 4% (d) 5%",
+      "answers": {
+        "a": "2%",
+        "b": "2.5%",
+        "c": "4%",
+        "d": "5%"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Semiclosed slots or totally enclosed slots are used in 3-phase induction motors, essentially to",
+      "answers": {
+        "a": "improve starting torque",
+        "b": "increase pull-out torque",
+        "c": "reduce magnetizing current and improve pf",
+        "d": "increase efficiency"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The rotor power output of 3-phase IM is 15 kW and corresponding slip is 4%. The rotor ohmic loss will be", 
+      "answers": {
+       "a": "625 W",
+        "b": "650 W",
+        "c": "700 W",
+        "d": "600 W"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following can be obtained by the equivalent circuit of an electrical machine?", 
+      "answers": {
+        "a": "Temperature rise in the cores",
+        "b": "Complete performance characteristics of the machine",
+        "c": "type of protection used in the machine",
+        "d": "Design parameters of the windings"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+	]
+}
+    
